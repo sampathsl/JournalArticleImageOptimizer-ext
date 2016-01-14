@@ -1,5 +1,5 @@
 # JournalArticleImageOptimizer-ext
-	Image compressor while uploading the Liferay web page image data
+	Liferay Ext plugin for image compressor while uploading the Liferay web page image data
 
 ## Installation
 	Put the jdeli.jar in to the liferay-portal-6.2-ce-ga5\tomcat-7.0.62\lib\ext folder

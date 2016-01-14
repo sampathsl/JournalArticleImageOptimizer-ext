@@ -17,7 +17,7 @@
 		ext-JournalArticleImageOptimizer-ext-util-bridges.jar
 		ext-JournalArticleImageOptimizer-ext-util-java.jar
 		ext-JournalArticleImageOptimizer-ext-util-taglib.jar
-	* Remove following files in liferay-portal-6.2-ce-ga5\tomcat-7.0.62\webapps\JournalArticleImageOptimizer-ext\WEB-INF folder
+	* Remove following files in liferay-portal-6.2-ce-ga5\tomcat-7.0.62\webapps\ROOT\WEB-INF folder
 		ext-JournalArticleImageOptimizer-ext.xml
 		
 	Start the server
